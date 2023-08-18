@@ -1,0 +1,5 @@
+{{#user}
+Name:Shreyas Y M
+Skills: HTML, CSS, JS, CORE JAVA, SPRING BOOT, MAVEN, AWS
+Email: shreyasym114@gmail.com
+{{/user}}
